@@ -1,18 +1,8 @@
-TypeScript Hello World Demo
+TypeScript Vitest Demo
 ===========================
 
 ```
 npm install
 npm start
+npm test
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
